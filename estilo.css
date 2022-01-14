@@ -1,0 +1,90 @@
+html, body {
+    margin: 0px; padding: 0px;
+}
+
+.encabezado {
+    position: relative;
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background-color: burlywood;
+    font-size: 40px;
+    padding-top: 0.7%;
+    padding-bottom: 0.7%;
+    font-style: bold;
+}
+
+.menu {
+    position: relative;
+    background-color: yellowgreen;
+    padding: auto;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: black;
+    text-align: center;
+}
+
+a {
+    color: rgb(54, 52, 52);
+    text-decoration: none;
+}
+
+.caja {
+    position: relative; 
+    padding: auto;
+    height: 100%;
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.fondo-naranja {
+    background-color: rgb(255, 115, 0);
+
+}
+
+.fondo-azul {
+    background-color: blue;
+}
+
+.fondo-amarilo {
+    background-color: yellow;
+}
+
+.titulo {
+    text-align: left;
+    font-size: 30px;
+    font-style: bold;
+    color: black;
+}
+
+.texto {
+    color: rgb(54, 52, 52);
+}
+.texto-izquierda {
+    text-align: left;
+    padding-bottom: 0px;
+}
+
+.texto-centro {
+    text-align: center;
+}
+
+
+.azul {
+    color: blue;
+}
+
+.fondo-amarillo {
+    background-color: yellow;
+}
+
+.video {
+    display: inline-block;
+}
+
+.mapa {
+    display: inline-block;
+}
+
